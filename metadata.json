@@ -1,0 +1,10 @@
+{
+  "name": "Weather Dashboard",
+  "description": "A glassmorphic Weather Dashboard featuring real-time global weather data, interactive weather map layers, 7-day and hourly forecasts, UV index, air quality insights, and Gemini AI weather advisories.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
